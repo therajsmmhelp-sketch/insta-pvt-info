@@ -17,7 +17,7 @@ export function Header() {
         </div>
         <div>
           <h1 className="font-bold text-base sm:text-lg leading-tight">
-            Instagram User Lookup Pro
+            Instagram Private Account Viewer 
           </h1>
           <p className="text-xs text-slate-400 leading-tight">
             Every public field, rendered automatically
