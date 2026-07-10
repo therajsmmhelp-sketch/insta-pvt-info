@@ -93,7 +93,7 @@ export default function HomePage() {
             
               Account
            {" "}
-            Viewer by Raj
+            Viewer
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 14 }}
