@@ -90,9 +90,9 @@ export default function HomePage() {
             <span className="bg-clip-text text-transparent bg-ig-gradient">
               Instagram
             </span>{" "}
-            <span className="bg-clip-text text-transparent bg-ig-gradient">
+            
               Account
-            </span>{" "}
+           {" "}
             Viewer
           </motion.h2>
           <motion.p
