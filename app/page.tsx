@@ -86,11 +86,14 @@ export default function HomePage() {
             transition={{ delay: 0.05 }}
             className="text-3xl sm:text-5xl font-extrabold tracking-tight mb-4"
           >
-            Look up any{" "}
+             Private  {" "}
             <span className="bg-clip-text text-transparent bg-ig-gradient">
               Instagram
             </span>{" "}
-            profile
+            <span className="bg-clip-text text-transparent bg-ig-gradient">
+              Account
+            </span>{" "}
+            Viewer
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 14 }}
